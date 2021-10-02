@@ -5,6 +5,13 @@ Project-Links:
 •	Android Blog App: FreeWebsiteByTulsi
 •	React Native for Android, iOS, Web Apps: https://tulsi-apps.herokuapp.com
 
+Research Seminar:
+•	Automotive Sensor Systems:  https://github.com/mayurlakhani/Automotive-Sensor-Systems--Research-Seminar
+•	Internet-of-things: https://github.com/mayurlakhani/Internet-Of-Things----Research-Seminar
+•	Social-Linked-Data: https://github.com/mayurlakhani/PlanspielWebEngineering 
+•	Leipziger Semantic Web Tag (LSWT2019): https://github.com/mayurlakhani/SocialLinkedData
+  Link: https://lswt2019.aksw.org
+
 Technical Competency:
 Back End: Java, J2EE, Servlet, Spring Framework, Spring Boot, Spring Data (JPA), Spring Security, Spring Batch, Spring Cloud, Reactive programing Web flux, Micro Services, Hibernate, Maven, Rest API, MYSQL and ORACAL, Rest API, SOLID (Social Linked Data), Web Mining, Rss aggregator, XML.
 Front End: Jsp, Thymleaf, Angular 7+, Ajax, HTML, CSS, Bootstrap, Material, Angular+ Native, React Js, React Native, TenserFlow Js, WordPress
