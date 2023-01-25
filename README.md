@@ -11,13 +11,36 @@ Research Seminar:
 •	Social-Linked-Data: https://github.com/mayurlakhani/PlanspielWebEngineering 
 •	Leipziger Semantic Web Tag (LSWT2019): https://github.com/mayurlakhani/SocialLinkedData
   Link: https://lswt2019.aksw.org
+• Agile: https://sites.google.com/view/show-n-tell-mayur-lakhani/home
+ 
+Back End: Java, J2EE, Spring Framework, Spring Boot, Spring Data (JPA), Spring Security, Spring Batch, Spring 
+session, Spring cloud microservices, Reactive programing-Web flux, Hibernate, Maven, Gradle, Rest API, MYSQL, 
+ORACAL, PostgreSQL, AWS DynamoDB, SOLID (Social Linked Data), Web Mining, XML, Microservices with ELK 
+(Elasticsearch, Logstash, and Kibana) Stack.
 
-Technical Competency:
-Back End: Java, J2EE, Servlet, Spring Framework, Spring Boot, Spring Data (JPA), Spring Security, Spring Batch, Spring Cloud, Reactive programing Web flux, Micro Services, Hibernate, Maven, Rest API, MYSQL and ORACAL, Rest API, SOLID (Social Linked Data), Web Mining, Rss aggregator, XML.
-Front End: Jsp, Thymleaf, Angular 7+, Ajax, HTML, CSS, Bootstrap, Material, Angular+ Native, React Js, React Native, TenserFlow Js, WordPress
-Knowledge: BPMN –> CAMUNDA, MongoDB, PHP, Python, Node js, IOT, PostgreSql, Android, Github, React Js, React Native, AWS EC2, S3 bucket, AWS DynamoDB, AUTOSAR, CAN Bus, bash script
-DevOps: Docker, Kubernates
-Tools: Intellij Idea, Eclipse Idea, HeidiSql, Mysql Server, Oracle, Postman, Heroku, GitHub, Docker, VSCode, Sublime Text, Node
+Spring Cloud: 
+  Netflix Components – Netflix Eureka - client, server; Fault tolerance with Hystrix circuit breaker, Spring 
+  cloud config – git, native mode; Distributed log tracing using Sleuth and Zipkin, Spring Cloud Gateway, 
+  Zuul, Load balancing with Netflix Ribbon, REST call with Netflix Feign Client, Hashicorp Vault, Gateway 
+  Filters, Stream processing with Spring cloud data flow. 
+  
+  Messaging - RabbitMQ, Apache Kafka, Eclipse-paho MQTT 
+  
+Front End: JSP, Thymleaf, Ajax, HTML3, CSS, Bootstrap, Angular, React Js, TensorFlow Js, TypeScript 
+WordPress etc. 
+
+Mobile Application Development: React Native, Android, Expo 
+
+WorkInProjects: BPMN –> CAMUNDA, MongoDB, PHP, Python -asyncio, Node js, Android, React Js, React 
+Native, AUTOSAR, CAN Bus, bash script, GraphQL, Raspberry pi provisioning, edge infrastructure in IoT 
+
+DevOps: Docker, Docker swarm, Kubernetes, Ansible Automation, AWS EC2, S3 bucket, Pivotal Cloud Foundry, 
+Heroku, GitLab CI/CD, AWS CI/CD, Jenkins 
+
+Tools: IntelliJ Idea, Eclipse Idea, Heidi SQL, MySQL Server, Oracle, Postman, Heroku, GitHub, GitLab, Docker, 
+VSCode, Sublime Text, Node 
+
+Payment Terminal: CCV (ECR protocol), MQTT protocol
 
 Work experience & internship in companies:
 21.06.2021 - 20.12.2021	Livello GmBH, Düsseldorf, North Rhine-Westphalia	
@@ -51,51 +74,53 @@ Worked as in: JAVA DEVELOPMENT, ANDROID DEVELOPMENT
 Gathering all the requirements from client and analysis of the tasks. Build j2EE project from scratch and provide front end and back-end solutions in development.
 
 Education:
+
 12/2017 - 04/2021		Automotive Software Engineering (Master)
-Focused on: Database & Web techniques, AUTOSAR, software- hardware codesign, V model
-•	Image Understanding
-•	Software Engineering and program basics
-•	Hardware software co-design
-•	Advance platform for automotive systems
-•	Automotive Software Engineering AUTOSAR
-•	Automotive Sensor Systems – Research Seminar
-•	Internet of Things – Research Seminar
-•	Formal specification verification (Air Bus GmbH)
-•	Software Engineering and program basics
+      Focused on: Database & Web techniques, AUTOSAR, software- hardware codesign, V model
+      •	Image Understanding
+      •	Software Engineering and program basics
+      •	Hardware software co-design
+      •	Advance platform for automotive systems
+      •	Automotive Software Engineering AUTOSAR
+      •	Automotive Sensor Systems – Research Seminar
+      •	Internet of Things – Research Seminar
+      •	Formal specification verification (Air Bus GmbH)
+      •	Software Engineering and program basics
 
 12/2017 - 03/2020		Web Engineering (Master)
-TU-Chemnitz Universität, Chemnitz, Deutschand
-Focused on: Data & Web techniques, MySQL Database
-•	Project Management
-•	Software Service Engineering
-•	Security in Distributed Systems
-•	Cloud and Web
-•	Current trends in Web
-•	Distributed Systems
-•	Web Development
-•	Agile (Frameworks and Methodology)
-2011 – 2015			Computer Engineering (Bachelor)
-TU-Gujarat University, Gujarat, India
-Focused on: Core Java, Advanced Java
-•	Project management
-•	Software Engineering
-•	CSS, Html, JavaScript, jQuery
-•	DBMS (MySQL)
-•	Oops Concept programming
-•	ER model, UML
-•	Grade: 7.24 (Distinction)
+      TU-Chemnitz Universität, Chemnitz, Deutschand
+      Focused on: Data & Web techniques, MySQL Database
+      •	Project Management
+      •	Software Service Engineering
+      •	Security in Distributed Systems
+      •	Cloud and Web
+      •	Current trends in Web
+      •	Distributed Systems
+      •	Web Development
+      •	Agile (Frameworks and Methodology)
+
+2011 – 2015	Computer Engineering (Bachelor)
+      TU-Gujarat University, Gujarat, India
+      Focused on: Core Java, Advanced Java
+      •	Project management
+      •	Software Engineering
+      •	CSS, Html, JavaScript, jQuery
+      •	DBMS (MySQL)
+      •	Oops Concept programming
+      •	ER model, UML
+      •	Grade: 7.24 (Distinction)
 
  Uni - Research Project	
  
-1.	SOLID(Social Linked Data) (Ref. https://inrupt.com/solid)
-Social linked data a decentralized application to provide true data ownership, no vender lock-in, easy to manage data at one place called pod. It could be connected to any decentralized application systems and can be managed from the anytime anywhere. The application provides web browser as App which will interact with pod and stores the data to the pod. Later it could be also transferred to another app via login using no username password technique but using unique WebID which will authenticate the person who claims as Owner. Its own database server which can be run on any smart device. No need of synchronization but only storage or workspace which will provided by Pod. The motivation comes from now a day’s social media trends and problem of walled garden. User can authorise for read, write or for modification to the specific document or files or even particular directory in decentralization applications.
-2.	Client Relationship Management (J2EE)
-Inspiration from Zoho CRM organization Java web application was made which can handle all the organizational data and customer details, and deals. Oracle database was used to store data and Backend development was done in Java. FrontEnd development was done in Angular and displayed all the stored data to the clients. It deals new clients and their company details and stores into db. Client can see their appointments and details on the calendar and manage it from there. Reminder notifications for special meetings, payments and also for new announcement in the business world.
-3.	IoT (Raspberi Pi4 – Home server)
-Private hosting a website on the Raspberi Pi 4 to analysis and storage of personal data from smart devices.
+    1.	SOLID(Social Linked Data) (Ref. https://inrupt.com/solid)
+    Social linked data a decentralized application to provide true data ownership, no vender lock-in, easy to manage data at one place called pod. It could be connected to any decentralized application systems and can be managed from the anytime anywhere. The application provides web browser as App which will interact with pod and stores the data to the pod. Later it could be also transferred to another app via login using no username password technique but using unique WebID which will authenticate the person who claims as Owner. Its own database server which can be run on any smart device. No need of synchronization but only storage or workspace which will provided by Pod. The motivation comes from now a day’s social media trends and problem of walled garden. User can authorise for read, write or for modification to the specific document or files or even particular directory in decentralization applications.
+    2.	Client Relationship Management (J2EE)
+    Inspiration from Zoho CRM organization Java web application was made which can handle all the organizational data and customer details, and deals. Oracle database was used to store data and Backend development was done in Java. FrontEnd development was done in Angular and displayed all the stored data to the clients. It deals new clients and their company details and stores into db. Client can see their appointments and details on the calendar and manage it from there. Reminder notifications for special meetings, payments and also for new announcement in the business world.
+    3.	IoT (Raspberi Pi4 – Home server)
+    Private hosting a website on the Raspberi Pi 4 to analysis and storage of personal data from smart devices.
 
 Linguistic Proficiency:
-•	English - c1
-•	German – B1
-•	Hindi – C1
-•	Gujarati – Mother
+    •	English - c1
+    •	German – B1
+    •	Hindi – C1
+    •	Gujarati – Mother
